@@ -1,0 +1,12 @@
+Resources:
+
+ - titanic tutorial: https://www.kaggle.com/c/titanic
+ - titanic data wrangkling tutorial: https://www.kaggle.com/jamesleslie/titanic-eda-wrangling-imputation/data
+
+ - Random Forest in Python: https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
+ - Hyperparameter Tuning the Random Forest in Python: https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+
+
+
+Other:
+ - Jupyter notebook shortcuts: https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
